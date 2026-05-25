@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Brainteaser
 |  |
 | ------- |
@@ -48,4 +49,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Simulation
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
