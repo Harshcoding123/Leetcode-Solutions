@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
 |  |
@@ -58,5 +59,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 <!---LeetCode Topics End-->
