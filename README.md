@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Brainteaser
 |  |
