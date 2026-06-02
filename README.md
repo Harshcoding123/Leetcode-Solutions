@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2126-destroying-asteroids](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
