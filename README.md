@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
