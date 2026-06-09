@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1470-shuffle-the-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1701-average-waiting-time](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [2126-destroying-asteroids](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 ## Linked List
