@@ -10,23 +10,32 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        ArrayList<Integer>a= new ArrayList<>();
+        int n=0;
         ListNode t =head;
         while(t!=null){
-            a.add(t.val);
+            n++;
             t =t.next;
-
         }
-        int i=0;int j =a.size()-1;
-        int sum =-1;
-        while(i<j){
-            sum= Math.max(sum,a.get(i)+a.get(j));
-            i++;j--;
+        n/=2;
+        ListNode curr =head;
+        for(int i=1;i<=n;i++){
+            curr= curr.next;
+        }
+        ListNode pre= null;
+        ListNode agla= curr.next;
+        while(curr!=null){
+            curr.next= pre;
+            pre= curr;
+            curr =agla;
+           if(agla!=null) agla =agla.next;
+        }
+        curr= pre;
+        t= head;
+        int sum= -1;
+        for(int i=1;i<=n;i++){
+            sum= Math.max(sum,t.val+curr.val);
+            t =t.next;curr =curr.next;
         }
         return sum;
-
-
-
-        
     }
 }
