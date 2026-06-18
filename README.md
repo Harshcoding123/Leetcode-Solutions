@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0942-di-string-match](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1470-shuffle-the-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0781-rabbits-in-forest](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0942-di-string-match](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2126-destroying-asteroids](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
