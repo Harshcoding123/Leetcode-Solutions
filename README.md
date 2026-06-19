@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1701-average-waiting-time](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
 | [1710-maximum-units-on-a-truck](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1732-find-the-highest-altitude](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
