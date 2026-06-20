@@ -1,33 +1,23 @@
 class Solution {
     boolean func(int n,int k,int []q){
-       int idx =0;int c=1;
-       while(idx<q.length){
-        int v= q[idx];
-        if(v<=k){
-            idx++;c++;
-        }else {
-            while(v>0){
-                v=v-k;
-                c++;
-                if(c>n+1) return false;
+        int s=0;
+        for(int i=0;i<q.length;i++){
+            if(q[i]%k==0){
+                s+=(q[i]/k);
+            }else{
+                s+=(q[i]/k)+1;
             }
-            idx++;
-
+            if(s>n) return false;
+            
         }
-
-        if(c>n+1) return false;
-
-       }
-       if(c>n+1) return false;
-       return true;
-
+        return true;
     }
     public int minimizedMaximum(int n, int[] q) {
         int max= q[0];
         for(int i=0;i<q.length;i++){
             max =Math.max(max,q[i]);
         }
-        int  min= 0;
+        int  min= 1;
         int ans=0;
         while(min<=max){
             int k= (min+max)/2;
