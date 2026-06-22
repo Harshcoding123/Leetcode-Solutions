@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1701-average-waiting-time](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0817-linked-list-components) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Merge Sort
 |  |
 | ------- |
