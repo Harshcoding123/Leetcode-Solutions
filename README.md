@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2352-equal-row-and-column-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2352-equal-row-and-column-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2670-find-the-distinct-difference-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2352-equal-row-and-column-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
