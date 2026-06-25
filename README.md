@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-sort-matrix-by-diagonals](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -284,4 +289,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
