@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2670-find-the-distinct-difference-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2679-sum-in-a-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2670-find-the-distinct-difference-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3446-sort-matrix-by-diagonals) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1094-car-pooling](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Matrix
 |  |
