@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3127-make-a-square-with-the-same-color](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3355-zero-array-transformation-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3355-zero-array-transformation-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [3355-zero-array-transformation-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3355-zero-array-transformation-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
