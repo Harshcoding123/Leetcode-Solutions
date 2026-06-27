@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
