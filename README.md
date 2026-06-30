@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2381-shifting-letters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2381-shifting-letters-ii) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
