@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
