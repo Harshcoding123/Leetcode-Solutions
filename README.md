@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2381-shifting-letters-ii) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
