@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1630-arithmetic-subarrays](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1630-arithmetic-subarrays](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
