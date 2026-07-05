@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
