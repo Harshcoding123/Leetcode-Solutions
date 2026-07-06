@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0781-rabbits-in-forest](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0817-linked-list-components) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0781-rabbits-in-forest](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0848-shifting-letters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
