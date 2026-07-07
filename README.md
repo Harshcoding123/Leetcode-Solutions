@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0781-rabbits-in-forest](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0523-continuous-subarray-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0781-rabbits-in-forest](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
