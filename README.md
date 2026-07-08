@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1630-arithmetic-subarrays](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1630-arithmetic-subarrays](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0781-rabbits-in-forest](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1512-number-of-good-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2364-count-number-of-bad-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
