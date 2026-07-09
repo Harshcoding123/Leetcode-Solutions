@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0382-linked-list-random-node](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0382-linked-list-random-node](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0817-linked-list-components](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0817-linked-list-components) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -419,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
