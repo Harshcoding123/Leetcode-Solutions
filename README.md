@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -435,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0398-random-pick-index) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
