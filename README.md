@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Graph Theory
 |  |
@@ -449,4 +451,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0342-power-of-four](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
