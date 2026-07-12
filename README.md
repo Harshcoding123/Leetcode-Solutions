@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
@@ -451,5 +452,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
