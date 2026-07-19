@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0763-partition-labels](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0763-partition-labels) |
+| [0784-letter-case-permutation](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0848-shifting-letters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0784-letter-case-permutation](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 ## Graph Theory
 |  |
 | ------- |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
+| [0784-letter-case-permutation](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 ## Bitmask
 |  |
 | ------- |
