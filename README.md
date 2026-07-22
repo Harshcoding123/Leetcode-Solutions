@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3169-count-days-without-meetings](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3169-count-days-without-meetings) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3238-find-the-number-of-winning-players](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2364-count-number-of-bad-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
