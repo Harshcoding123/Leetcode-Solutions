@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0516-longest-palindromic-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [0848-shifting-letters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0848-shifting-letters) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1143-longest-common-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
