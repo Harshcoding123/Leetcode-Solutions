@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2784-check-if-array-is-good](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3169-count-days-without-meetings](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3169-count-days-without-meetings) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Matrix
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
@@ -540,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Queue
+|  |
+| ------- |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 <!---LeetCode Topics End-->
