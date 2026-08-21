@@ -1,24 +1,35 @@
 class Solution {
     public int[] getSubarrayBeauty(int[] nums, int k, int x) {
-        int n =nums.length;
+        int freq[] =new int [51];
+        int n= nums.length;
         int ans[]= new int[n-k+1];
-       
-        ArrayList<Integer>a =new ArrayList<>();
-        int idx=0;
-        for(int i=0;i<n;i++){
-            a.add(nums[i]);
-            if(i>=k){
-                a.remove(0);
-            }
-            if(a.size()==k){
-                PriorityQueue<Integer>pq= new PriorityQueue<>((p,b)->Integer.compare(b,p));
-                for(int j=0;j<a.size();j++){
-                    pq.add(a.get(j));
-                    if(pq.size()>x) pq.remove();
+        int idx=0;int k1=0;
+        for(int i=0;i<nums.length;i++){
+            k1++;
+            if(nums[i]<0) freq[nums[i]+50]++;
+            int c=0;
+            if(k1==k){
+                 for(int j=0;j<freq.length;j++){
+                    if(freq[j]>0) c+=freq[j];
+                    if(c>=x){
+                        ans[idx]= j-50;
+                        break;
+                    }
                 }
-                int v= pq.remove();
-                if(v<0) ans[idx++]= v;
-                else ans[idx++]= 0;
+                idx++;
+            }
+            if(k1>k){
+              if(nums[i-k]<0)  freq[nums[(i-k)]+50]--;
+                for(int j=0;j<freq.length;j++){
+                    if(freq[j]>0) c+=freq[j];
+                    if(c>=x){
+                        ans[idx]= j-50;
+                        break;
+                    }
+                    
+                }
+                idx++;
+               
             }
         }
         return ans;
