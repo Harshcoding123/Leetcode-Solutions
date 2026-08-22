@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0516-longest-palindromic-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
