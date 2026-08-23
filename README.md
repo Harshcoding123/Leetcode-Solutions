@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1630-arithmetic-subarrays](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
+| [1646-get-maximum-in-generated-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1701-average-waiting-time](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
 | [1710-maximum-units-on-a-truck](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [1646-get-maximum-in-generated-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1701-average-waiting-time](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
