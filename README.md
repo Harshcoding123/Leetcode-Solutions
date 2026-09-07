@@ -611,4 +611,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1965-employees-with-missing-information) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
