@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0763-partition-labels](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -621,4 +624,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
