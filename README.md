@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Dynamic Programming
