@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0813-largest-sum-of-averages](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0813-largest-sum-of-averages) |
@@ -671,4 +673,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
