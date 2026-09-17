@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1109-corporate-flight-bookings) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0813-largest-sum-of-averages) |
 | [1143-longest-common-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
