@@ -1,27 +1,26 @@
 class Solution {
-    boolean func(int [][]g,int curr,boolean vis[],int c,HashMap<Integer,Integer>mp){
-        if(c==1) c=0;
-        else c=1;
-        vis[curr] =true;
-        mp.put(curr,c);
-        for(int i=0;i<g[curr].length;i++){
-            int e= g[curr][i];
-            if(vis[e]){
-                if(mp.get(e)==c) return false;
+    boolean func(int[][] graph,int curr,char ch,boolean vis[],char[]c){
+        vis[curr]= true;
+        
+        if(ch=='r') c[curr]= 'w';
+        else c[curr]= 'r';
+        for(int i=0;i<graph[curr].length;i++){
+            int e= graph[curr][i];
+            if(!vis[e]){
+                if(!func(graph,e,c[curr],vis,c)) return false;
             }else{
-                boolean v = func(g,e,vis,c,mp);
-                if(!v) return false;
+                if(c[curr]==c[e]) return false;
             }
         }
         return true;
     }
-    public boolean isBipartite(int[][] g) {
-        HashMap<Integer,Integer>mp =new HashMap<>();
-        boolean vis[] =new boolean[g.length];
-        for(int i=0;i<g.length;i++){
+    public boolean isBipartite(int[][] graph) {
+        boolean vis[]= new boolean [graph.length];
+        char c[]= new char[graph.length];
+        for(int i=0;i<graph.length;i++){
+            
             if(!vis[i]){
-                boolean v= func(g,i,vis,0,mp);
-                if(!v) return false;
+                if(!func(graph,i,'w',vis,c)) return false;
             }
         }
         return true;
