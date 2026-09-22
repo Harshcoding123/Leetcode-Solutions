@@ -1,25 +1,16 @@
 class Solution {
-    int func(int []nums,int idx,int p,int [][]dp){
-        if(idx>=nums.length) return 0;
-        if(dp[idx][p+1]!=-1) return dp[idx][p+1];
-        int skip= func(nums,idx+1,p,dp);
-        int take =0;
-        
-        if(p==-1||nums[idx]>nums[p]){
-            take =func(nums,idx+1,idx,dp)+1;
-            
-            dp[idx][p+1]= Math.max(skip,take);
-            return dp[idx][p+1];
-        }else{
-            dp[idx][p+1]= skip;
-            return dp[idx][p+1];
-        }
-    }
     public int lengthOfLIS(int[] nums) {
-        int dp[][]= new int [nums.length][nums.length+1];
-        for(int i=0;i<dp.length;i++){
-            Arrays.fill(dp[i],-1);
+        if(nums.length==0) return 0;
+        int t[]= new int[nums.length];
+        int max= 1;
+        t[0]= 1;
+        for(int i=1;i<t.length;i++){
+            t[i] =1;
+            for(int j=0;j<i;j++){
+                if(nums[j]<nums[i]) t[i] =Math.max(t[i],t[j]+1);
+            }
+            max =Math.max(t[i],max);
         }
-    return func(nums,0,-1,dp);
+        return max;
     }
 }
