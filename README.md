@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0077-combinations) |
+| [0113-path-sum-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0494-target-sum) |
