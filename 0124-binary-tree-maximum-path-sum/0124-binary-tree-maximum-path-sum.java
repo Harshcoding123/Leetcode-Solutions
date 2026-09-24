@@ -14,11 +14,18 @@
  * }
  */
 class Solution {
+    int max=Integer.MIN_VALUE;
+
     int max(TreeNode root){
         if(root==null) return 0;
         int v1= max(root.left);
         int v2 =max(root.right);
         int v= Math.max(v1,v2);
+         int e= root.val;
+        if(e+v1>e) e+=v1;
+        if(e+v2>e) e+=v2;
+        max= Math.max(max,e);
+        
         if(v+root.val>root.val) 
         return v+root.val;
         return root.val;
@@ -37,6 +44,8 @@ class Solution {
         return Math.max(v,Math.max(e1,e2));
     }
     public int maxPathSum(TreeNode root) {
-        return func(root);
+        int v= max(root);
+        return max;
+        // return func(root);
     }
 }
