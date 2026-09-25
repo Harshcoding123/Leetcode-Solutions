@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0398-random-pick-index](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0516-longest-palindromic-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 ## Sliding Window
 |  |
@@ -732,4 +737,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
