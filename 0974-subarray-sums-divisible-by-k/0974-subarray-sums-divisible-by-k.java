@@ -5,8 +5,9 @@ class Solution {
         mp.put(0,1);
         for(int i=0;i<nums.length;i++){
             p+=nums[i];
-
-            int r =(p%k+k)%k;
+            int r =p%k;
+            if(r<0) r+=k;
+            // int r =(p%k+k)%k;
             if(mp.containsKey(r)) ans+=mp.get(r);
 
             if(!mp.containsKey(r)) mp.put(r,1);
