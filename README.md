@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0817-linked-list-components) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Backtracking
