@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -645,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2653-sliding-subarray-beauty](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2653-sliding-subarray-beauty) |
