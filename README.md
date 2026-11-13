@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Monotonic Queue
 |  |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
