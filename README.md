@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2266-count-number-of-texts](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2266-count-number-of-texts) |
 | [2364-count-number-of-bad-pairs](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1646-get-maximum-in-generated-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1701-average-waiting-time](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Monotonic Queue
 |  |
