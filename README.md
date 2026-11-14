@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0622-design-circular-queue](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
