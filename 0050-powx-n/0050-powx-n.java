@@ -1,18 +1,20 @@
 class Solution {
-    double f(double x,int n){
-        if(n==0) return 1;
+    double p(double x,long n){
+        if(n==0||x==1) return 1;
         if(n==1) return x;
-        double v =f(x,n/2);
-        if(n%2==0) return v*v;
-        else return v*v*x;
+        if(n%2==0){
+            double v= p(x,n/2);
+            return v*v;
+        }
+        return p(x,n-1)*x;
     }
     public double myPow(double x, int n) {
+        long v=n;
         if(n<0){
-            x =1/x;
-            n=-n;
-        } 
-        return f(x,n);
-
-        
+           
+              v = Math.abs(v);
+            return 1/p(x,v);
+        }
+        return p(x,v);
     }
 }
