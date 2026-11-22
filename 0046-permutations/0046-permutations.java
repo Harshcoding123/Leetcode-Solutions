@@ -1,10 +1,14 @@
 class Solution {
     public void func(int nums[],List<List<Integer>>ans,ArrayList<Integer>a,boolean vis[]){
-        boolean check= false;
+        if(a.size()==nums.length) {
+            ans.add(new ArrayList<>(a));
+            return;
+        }
+        // boolean check= false;
         for(int i=0;i<nums.length;i++){
             
             if(!vis[i]){
-                check= true;
+                // check= true;
                 a.add(nums[i]);
                 vis[i] =true;
                 func(nums,ans,a,vis);
@@ -13,9 +17,9 @@ class Solution {
             }
 
         }
-        if(!check){
-            ans.add(new ArrayList<>(a));
-        }
+        // if(!check){
+        //     ans.add(new ArrayList<>(a));
+        // }
     }
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>>ans =new ArrayList<>();
