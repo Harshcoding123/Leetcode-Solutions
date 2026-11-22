@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
