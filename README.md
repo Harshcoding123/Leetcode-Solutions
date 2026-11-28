@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [1094-car-pooling](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [1845-seat-reservation-manager](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1845-seat-reservation-manager) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2611-mice-and-cheese](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1845-seat-reservation-manager](https://github.com/Harshcoding123/Leetcode-Solutions/tree/master/1845-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
